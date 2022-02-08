@@ -1,0 +1,55 @@
+﻿  CombatLog.cpp
+  Enemy.cpp
+  EnemyList.cpp
+  FileOperations.cpp
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\FileOperations.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\FileOperations.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\FileOperations.cpp(274,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\FileOperations.cpp(278,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\FileOperations.cpp(290,20): warning C4018: '<': signed/unsigned mismatch
+  HandleMission.cpp
+  Mission.cpp
+  Player.cpp
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\Player.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\Player.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+  ScoreRank.cpp
+  Scoreboard.cpp
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\Scoreboard.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\Scoreboard.cpp(147,31): warning C4018: '<': signed/unsigned mismatch
+  ShopNode.cpp
+  Weapon.cpp
+  WeaponShop.cpp
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(130,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(135,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(144,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(153,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(162,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(171,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(184,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(229,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(234,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(243,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(252,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(261,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(270,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(283,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(328,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(333,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(342,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(351,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(360,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(369,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(382,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(427,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(432,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(441,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(450,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(459,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(468,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\WeaponShop.cpp(481,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\main.cpp(127,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\main.cpp(129,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\ESE224-FinalProject\main.cpp(148,22): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  ESE224-FinalProject.vcxproj -> C:\Users\daven\OneDrive\Documents\ESE224\ESE224-FinalProject\ESE224-FinalProject\Debug\ESE224-FinalProject.exe
